@@ -1,4 +1,4 @@
-<div style="text-align: center"> <a href="https://jonesmiasia.github.io/">Home</a> <a href="resume.md"> Resume </a> <a href="projects/projects_main.md"> Projects </a></div>
+<div style="text-align: center"> <a href="https://jonesmiasia.github.io/">Home</a> <a href="https://jonesmiasia.github.io/resume.md"> Resume </a> <a href="https://jonesmiasia.github.io/projects/projects_main.md"> Projects </a></div>
 
 ## Miasia Jones
 
