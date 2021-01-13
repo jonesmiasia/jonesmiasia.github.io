@@ -1,12 +1,14 @@
 ## Miasia Jones
 
-You can use the [editor on GitHub](https://github.com/jonesmiasia/jonesmiasia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image on main](images/download.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an aspiring data scientist based out of Atlanta, GA. I'm a graduate student currently pursuing a MS degree in computer science (machine learning specialization) with 3+ years of experience in course and project work related to machine learning and data science. I am proud to have developed a creative, collaborative, and open-minded portfolio and invite you to learn more about my work.
 
-### Markdown
+### A Little About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Aspiring Data Scientist
+
+I chose data science as a career because I believe that data is a story, and I want to be the one to tell the story. My journey into data science started as a developed interest in data analysis in my undergraduate years, after I became more comfortable with programming. Through project work I had the opportunity to design data visualizations to understand trends or patterns in data. Then I eventually developed an interest in machine learning (ML) given the reason that I could learn more from data. When I first started studying ML, I mostly learned what it was and what it could do, but throughout my time in graduate school, I learned more of how and why it works. Through project work, I had the opportunity to apply machine learning to different domains and I worked with different ML models to develop insight from data. But most importantly, I learned I have the capability to leverage my technical knowledge to push a project or idea forward in a meaningful way, by analyzing results and drawing effective conclusions on how to proceed. I like to think of myself as a creative thinker, problem solver, and person who doesn't mind a challenge.
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +30,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonesmiasia/jonesmiasia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+miasiajones1@gmail.com
