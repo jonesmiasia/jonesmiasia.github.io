@@ -1,2 +1,3 @@
-# jonesmiasia.github.io
-Miasia Jones Online Resume
+# Miasia Jones
+
+Online Resume and Portfolio
