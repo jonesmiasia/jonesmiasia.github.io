@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Miasia Jones
 
 You can use the [editor on GitHub](https://github.com/jonesmiasia/jonesmiasia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
